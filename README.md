@@ -28,15 +28,20 @@ Out of these models catboost performed very well giving an AUC score around and 
 
 # Some screenshots of the app
 * Landing Page:
+![Screenshot (137)](https://github.com/SammithaS/Rain-Prediction-Website/assets/121117205/fc955dcf-6439-4d4b-9312-c5f04960e526)
+
 
 * About:
+  ![Screenshot (138)](https://github.com/SammithaS/Rain-Prediction-Website/assets/121117205/9e638e58-29a3-44c5-ad8e-2d2f91072320)
 
-* Developer:
 
 * Predictor:
+ ![Screenshot (139)](https://github.com/SammithaS/Rain-Prediction-Website/assets/121117205/1d4d6a53-0ab7-48b6-a6ab-2043d5d6eece)
+
 
 * Result:
-
+![Screenshot (140)](https://github.com/SammithaS/Rain-Prediction-Website/assets/121117205/8df55bc3-bb85-48e4-9a18-14890fcf14f1)
+![Screenshot (141)](https://github.com/SammithaS/Rain-Prediction-Website/assets/121117205/4d1a2a31-1aaa-4e64-a56e-0096c5617fe3)
 
 # Workflow
 
