@@ -18,7 +18,7 @@ Advanced Model: The CatBoost model, trained and exported, delivers precise weath
 
 Real-Time Predictions: Users can obtain instant weather predictions, aiding in planning and decision-making.
 
-# Testing values
+
 
 # Rainy Day: 
 ![Screenshot (140)](https://github.com/SammithaS/Rain-Prediction-Website/assets/121117205/8df55bc3-bb85-48e4-9a18-14890fcf14f1)
