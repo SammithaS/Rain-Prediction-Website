@@ -3,6 +3,20 @@ A project on predicting whether it will rain tomorrow or not by using the Rainfa
 This project is tested over lot of ml models like catboost, xgboost, random forest, support vector classifier, etc..
 Out of these models catboost performed very well giving an AUC score around and ROC score of 89 far better than others.
 
+# Features
+Key Features of the Weather Prediction Web App:
+
+User-Friendly Interface: The app offers a seamless and intuitive interface, making it easy for users to input their weather parameters.
+
+Responsive Design: The frontend is built using HTML and CSS, ensuring the app's adaptability across various devices and screen sizes.
+
+Dynamic Functionalities: Flask powers the backend, enabling dynamic data processing and smooth interactions.
+
+Preprocessed Dataset: The app uses a cleaned and preprocessed dataset downloaded from Kaggle, ensuring accurate predictions.
+
+Advanced Model: The CatBoost model, trained and exported, delivers precise weather forecasts based on user input.
+
+Real-Time Predictions: Users can obtain instant weather predictions, aiding in planning and decision-making.
 
 # Testing values
 
