@@ -41,8 +41,11 @@ Out of these models catboost performed very well giving an AUC score around and 
 # Workflow
 
 *Data collection
+
 *Data Preprocessing
+
 *Model Creation and Training
+
 *Deployment
 
 
