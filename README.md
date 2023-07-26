@@ -40,11 +40,10 @@ Out of these models catboost performed very well giving an AUC score around and 
 
 # Workflow
 
-# Data Collection: 
-[Rainfall Prediction in Australia dataset](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package) from Kaggle
-# Data Preprocessing: 
-
-# Model Creation:
+*Data collection
+*Data Preprocessing
+*Model Creation and Training
+*Deployment
 
 
 
