@@ -7,9 +7,9 @@ Out of these models catboost performed very well giving an AUC score around and 
 # Testing values
 
 # Rainy Day: 
-
+![Screenshot (140)](https://github.com/SammithaS/Rain-Prediction-Website/assets/121117205/8df55bc3-bb85-48e4-9a18-14890fcf14f1)
 # Sunny Day:
-
+![Screenshot (141)](https://github.com/SammithaS/Rain-Prediction-Website/assets/121117205/4d1a2a31-1aaa-4e64-a56e-0096c5617fe3)
 
 # Tech Stack
 * Front-End: HTML, CSS, Bootstrap
